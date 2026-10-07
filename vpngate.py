@@ -297,9 +297,7 @@ EDGE_HOSTS = [
     h.strip()
     for h in os.environ.get(
         "EDGE_HOSTS",
-        "saas.sin.fan:443,cdn.204910.best:443,www.mfyx.cn:443,p.etime.vip:443,cdn.ctn32.us.kg:443,cf.877774.xyz:443,spring.io:443,"
-        "cf.nyanya.moe:443,www.sloomb.com:443,op.chinwa.eu.cc:443,www.leics.police.uk:443,securecircle.com:443,www.shopify.com:443,"
-        "www.carousell.sg:443,www.dbs.com.sg:443,openai.com:443,linear.app:443,www.bilibili.com:443,uspto.gov:443,www.vmware.com:443",
+        "cfip.1323123.xyz:443,email.lg.com:443,ping.pe:443,www.redboxtools.com:443,jellyfin.roddy.eu.cc:443,redis.io:443,www.mlkj888.com:443,time.is:443,salaryexpert.com:443,pure.coupert.com:443,mokeedev.com:443,dx.doi.org:443,kniu.cc:443,registry.yarnpkg.com:443,encryptedsni.com:443,js.org:443,w3.org:443,www.visa.com.au:443,login.rockwellautomation.com:443,kali.download:443,assets.bizclikmedia.net:443,saas.sin.fan:443,leawo.org:443,markmonitor.com:443,uspto.gov:443,www.petronaftco.com:443,securecircle.com:443,rocketreach.co:443,codexradar.com:443,form.assaabloy.com:443,worldvectorlogo.com:443,www.mastervolt.com:443,singapore.com:443,store.ubi.com:443,cfplus.255520.xyz:443,fictiv.com:443,jobsdb.com:443,api.producthunt.com:443,www.carousell.sg:443,example.com:443,hubspot.com:443,www.ox.ac.uk:443,www.loc.gov:443,www.hugedomains.com:443,support.communilink.net:443,www.ventusky.com:443,www.trumpgolf.com:443,www.visa.com.tw:443,grass.io:443",
     ).split(",")
     if h.strip()
 ]
